@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kellyayong
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning Python
 - 📫 How to reach me - kelly.a.yong@gmail.com
 
 <!---
